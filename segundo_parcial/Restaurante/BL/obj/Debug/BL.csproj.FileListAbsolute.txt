@@ -1,0 +1,5 @@
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\BL\bin\Debug\BL.dll
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\BL\bin\Debug\BL.pdb
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\BL\obj\Debug\BL.dll
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\BL\obj\Debug\BL.pdb

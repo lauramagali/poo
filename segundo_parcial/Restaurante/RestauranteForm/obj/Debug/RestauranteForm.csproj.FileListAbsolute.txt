@@ -1,0 +1,13 @@
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\bin\Debug\RestauranteForm.exe.config
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\bin\Debug\RestauranteForm.exe
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\bin\Debug\RestauranteForm.pdb
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\bin\Debug\BL.dll
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\bin\Debug\BL.pdb
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\obj\Debug\RestauranteForm.csprojAssemblyReference.cache
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\obj\Debug\RestauranteForm.Form1.resources
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\obj\Debug\RestauranteForm.Properties.Resources.resources
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\obj\Debug\RestauranteForm.csproj.GenerateResource.cache
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\obj\Debug\RestauranteForm.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\obj\Debug\RestauranteForm.csproj.CopyComplete
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\obj\Debug\RestauranteForm.exe
+D:\Mis Documentos\UAI\Segundo año\Programacion orientada a objetos\segundo_parcial\Restaurante\RestauranteForm\obj\Debug\RestauranteForm.pdb
