@@ -4,7 +4,7 @@ Se solicita que desarrolle una aplicación que permita representar la preparaci�
 
 ## Detalles de implementación:
 
-1) * La clase Ingrediente tendrá los atributos Nombre (string) y Costo (single).
+1) \* La clase Ingrediente tendrá los atributos Nombre (string) y Costo (single).
 2) * Plato encapsulará una colección de ingredientes. Expondrá una propiedad de sólo lectura Costo que devolverá el costo total del plato (double)
 3) * Cocinero será abstracta. Expondrá un método PrepararPLato que devolverá un plato (vacío). Este método sólo podrá invocarse desde dentro del mismo assembly.
 4) * Chef heredará de Cocinero y reemplazará el método PrepararPLato agregando en él dos partes del ingrediente Carne (con un costo de 15),
